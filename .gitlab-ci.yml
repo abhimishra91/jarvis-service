@@ -1,0 +1,1 @@
+## Yaml file for deployment of the Flask Service on AWS ECR as a image which then updates the ECS service hosting Jarvis NLP service. 
